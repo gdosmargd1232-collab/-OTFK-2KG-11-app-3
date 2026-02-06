@@ -43,7 +43,6 @@
 ---
 
 ## 6. Прототип
-- Якщо у Figma: [Посилання на прототип Figma](<img width="1803" height="1010" alt="image" src="https://github.com/user-attachments/assets/cf86cdb4-e779-40f9-9a3b-5752e1566b8e" />
-)  
+- Якщо у Figma: [Посилання на прототип Figma](https://www.figma.com/make/jsRWWtSKForoLDvTU5vazw/Study-Buddy-app-design?t=PgtUQ0wUxv01v7Gq-1)  
 - Якщо на папері: завантаж фото у папку `design/` та додай у файл:  
   `![Каркас головної сторінки](./design/your_photo.jpg)`
