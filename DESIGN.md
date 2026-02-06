@@ -43,6 +43,7 @@
 ---
 
 ## 6. Прототип
-- Якщо у Figma: [Посилання на прототип Figma](твоє_посилання)  
+- Якщо у Figma: [Посилання на прототип Figma](<img width="1803" height="1010" alt="image" src="https://github.com/user-attachments/assets/cf86cdb4-e779-40f9-9a3b-5752e1566b8e" />
+)  
 - Якщо на папері: завантаж фото у папку `design/` та додай у файл:  
   `![Каркас головної сторінки](./design/your_photo.jpg)`
